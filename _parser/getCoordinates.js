@@ -7,14 +7,13 @@
 
 var cities = [
 /*for example*/
-"UPPER NORTH SYDNEY, NS",
-"YOUNGS POINT, ON",
-"YOUNGSTOWN, AB",
+"BROCKWAY, NB",
+"BRODERICK, SK"
 ],
 citiesL = cities.length,
 
-cityInput = document.getElementById("jY3253"), // need get from tag (always update)
-searchButton = document.querySelector("#jY3253 + button"), // need get from tag (always update)
+cityInput = document.getElementById("Fe3643"), // need get from tag (always update)
+searchButton = document.querySelector("#Fe3643 + button"), // need get from tag (always update)
 tArea = document.getElementById("cities-output"); // need add to HTML code for convenience
 
 var simulateClick = function (elem) {
@@ -43,7 +42,7 @@ function countDown(i) {
 		//get coordinates (lat+lng) and put coordinates to array
 		//citiesCoordinates.unshift(cityLat.value + ' ' + cityLng.value);
 		var oldV = tArea.value;
-		tArea.value = cityLat.value + ' ' + cityLng.value + '\n' + oldV;
+		tArea.value = cities[i] +' = '+cityLat.value + ' ' + cityLng.value + '\n' + oldV;
 	}, 1000);
 
 
