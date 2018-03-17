@@ -7,13 +7,13 @@
 
 var cities = [
 /*for example*/
-"BROCKWAY, NB",
-"BRODERICK, SK"
+"CAPE ENRAGE, NB",
+"CLARKSBURG, ON"
 ],
 citiesL = cities.length,
 
-cityInput = document.getElementById("Fe3643"), // need get from tag (always update)
-searchButton = document.querySelector("#Fe3643 + button"), // need get from tag (always update)
+cityInput = document.getElementById("Oj2154"), // need get from tag (always update)
+searchButton = document.querySelector("#Oj2154 + button"), // need get from tag (always update)
 tArea = document.getElementById("cities-output"); // need add to HTML code for convenience
 
 var simulateClick = function (elem) {
