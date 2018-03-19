@@ -7,14 +7,14 @@
 
 var cities = [
 /*for example*/
-"CAPE ENRAGE, NB",
-"CLARKSBURG, ON"
+"CLARKVILLE, NB",
+"D'ALEMBERT, QC"
 ],
 citiesL = cities.length,
 
-cityInput = document.getElementById("Oj2154"), // need get from tag (always update)
-searchButton = document.querySelector("#Oj2154 + button"), // need get from tag (always update)
-tArea = document.getElementById("cities-output"); // need add to HTML code for convenience
+cityInput = document.getElementById("Oa2827"), // need get from tag (always update)
+searchButton = document.querySelector("#Oa2827 + button"), // need get from tag (always update)
+tArea = document.getElementById("cities-output"); // <textarea id="cities-output"> need add to HTML code for convenience
 
 var simulateClick = function (elem) {
 	// Create our event (with options)

@@ -1184,14 +1184,6 @@
 "CLARKS CORNER, NB",
 "CLARKS HARBOUR, NS",
 "CLARKSBURG, ON",
-
-
-
-
-// end 
-
-
-
 "CLARKVILLE, NB",
 "CLAVET, SK",
 "CLAYBANK, SK",
@@ -1442,6 +1434,16 @@
 "CYPRESS RIVER, MB",
 "CZAR, AB",
 "D'ALEMBERT, QC",
+
+
+
+
+
+//point
+
+
+
+
 "D'ARCY STATION, SK",
 "D'ARCY, BC",
 "D'ESCOUSSE, NS",
