@@ -2,4 +2,30 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  display: flex;
+  flex-flow: wrap row;
+  justify-content: space-around;
+}
+
+body > div {
+  flex: 1 1;
+  border: 2px solid #cd655a;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: inline;
+  text-align: left;
+}
+
+Ul li {
+  
+}
+
+.app {
+  padding-left: 50px;
 }
