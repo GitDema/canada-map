@@ -1434,16 +1434,6 @@
 "CYPRESS RIVER, MB",
 "CZAR, AB",
 "D'ALEMBERT, QC",
-
-
-
-
-
-//point
-
-
-
-
 "D'ARCY STATION, SK",
 "D'ARCY, BC",
 "D'ESCOUSSE, NS",
@@ -3209,6 +3199,22 @@
 "LAPLANTE, NB",
 "LAPORTE, SK",
 "LARDER LAKE, ON",
+
+
+
+
+
+
+
+
+//end
+
+
+
+
+
+
+
 "LARK HARBOUR, NL",
 "LAROUCHE, QC",
 "LARRYS RIVER, NS",

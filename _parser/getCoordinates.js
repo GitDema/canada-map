@@ -7,13 +7,13 @@
 
 var cities = [
 /*for example*/
-"CLARKVILLE, NB",
-"D'ALEMBERT, QC"
+"KINISTINO, SK",
+"LARDER LAKE, ON"
 ],
 citiesL = cities.length,
 
-cityInput = document.getElementById("Oa2827"), // need get from tag (always update)
-searchButton = document.querySelector("#Oa2827 + button"), // need get from tag (always update)
+cityInput = document.getElementById("QE2058"), // need get from tag (always update)
+searchButton = document.querySelector("#QE2058 + button"), // need get from tag (always update)
 tArea = document.getElementById("cities-output"); // <textarea id="cities-output"> need add to HTML code for convenience
 
 var simulateClick = function (elem) {
@@ -31,7 +31,7 @@ function countDown(i) {
 	return promise = new Promise( (resolve, reject) => {
 
   //put value to city input
-  cityInput.value = cities[--i] + ', CA';
+  cityInput.value = cities[--i] + ', Canada';
 
 	//btn click
 	simulateClick(searchButton);
