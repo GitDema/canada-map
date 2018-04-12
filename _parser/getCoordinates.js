@@ -7,13 +7,13 @@
 
 var cities = [
 /*for example*/
-"KINISTINO, SK",
-"LARDER LAKE, ON"
+"LOWER WEDGEPORT, NS",
+"MCLAUGHLIN, NB"
 ],
 citiesL = cities.length,
 
-cityInput = document.getElementById("QE2058"), // need get from tag (always update)
-searchButton = document.querySelector("#QE2058 + button"), // need get from tag (always update)
+cityInput = document.getElementById("VC3517"), // need get from tag (always update)
+searchButton = document.querySelector("#VC3517 + button"), // need get from tag (always update)
 tArea = document.getElementById("cities-output"); // <textarea id="cities-output"> need add to HTML code for convenience
 
 var simulateClick = function (elem) {

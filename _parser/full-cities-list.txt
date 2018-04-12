@@ -3199,22 +3199,6 @@
 "LAPLANTE, NB",
 "LAPORTE, SK",
 "LARDER LAKE, ON",
-
-
-
-
-
-
-
-
-//end
-
-
-
-
-
-
-
 "LARK HARBOUR, NL",
 "LAROUCHE, QC",
 "LARRYS RIVER, NS",
@@ -3723,6 +3707,20 @@
 "MCKINLEYVILLE, NB",
 "MCLAUGHLIN, AB",
 "MCLAUGHLIN, NB",
+
+
+
+
+
+
+
+
+// end
+
+
+
+
+
 "MCLEAN, SK",
 "MCLEESE LAKE, BC",
 "MCLENNAN, AB",
