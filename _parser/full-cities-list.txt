@@ -3707,20 +3707,6 @@
 "MCKINLEYVILLE, NB",
 "MCLAUGHLIN, AB",
 "MCLAUGHLIN, NB",
-
-
-
-
-
-
-
-
-// end
-
-
-
-
-
 "MCLEAN, SK",
 "MCLEESE LAKE, BC",
 "MCLENNAN, AB",
@@ -6543,7 +6529,6 @@
 "UPPER MUSQUODOBOIT, NS",
 "UPPER NINE MILE RIVER, NS",
 "UPPER NORTH RIVER, NS",
-
 "UPPER NORTH SYDNEY, NS",
 "UPPER NORTHFIELD, NS",
 "UPPER ONSLOW, NS",
@@ -6774,9 +6759,6 @@
 "WAWANESA, MB",
 "WAWEIG, NB",
 "WAWOTA, SK",
-
-===================================== LAST 280 =============================================
-
 "WAYERTON, NB",
 "WAYWAYSEECAPPO, MB",
 "WEAGAMOW LAKE, ON",
